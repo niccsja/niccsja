@@ -7,7 +7,7 @@ I'm Niville, Web Devloper from Maryland
 
 🧑🏽‍💻 I like exploring all facets of web development and embracing new technologies.
 
-🙇🏽‍♂️ I am pursuing full stack development, learning about React, TypeScript, Express, Redux and MongoDB.
+🙇🏽‍♂️ I am pursuing full stack web development, learning about React, TypeScript, Express, Redux, MongoDB and Node.js.
 
 🤓 I am working on several projects and building my portforlio.
 
